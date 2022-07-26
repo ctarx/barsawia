@@ -45,7 +45,7 @@ function hunt:escape_arrows(direction)
         cecho("\n<red>  # # # # # # ")
         cecho("\n<red>   #          ")
         cecho("\n<red>    #         \n")
-    elseif direction == "gora" then
+    elseif direction == "gore" then
         cecho("\n\n<red>     #     #   ")
         cecho("\n<red>     #     #   ")
         cecho("\n<red>     #     #   ")
