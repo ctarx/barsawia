@@ -1587,7 +1587,6 @@ updater:checkVersion()</script>
 						<integer>0</integer>
 					</regexCodePropertyList>
 				</Trigger>
-        </Trigger>
 				<TriggerGroup isActive="yes" isFolder="yes" isTempTrigger="no" isMultiline="no" isPerlSlashGOption="no" isColorizerTrigger="no" isFilterTrigger="no" isSoundTrigger="no" isColorTrigger="no" isColorTriggerFg="no" isColorTriggerBg="no">
 					<name>Miner</name>
 					<script></script>
